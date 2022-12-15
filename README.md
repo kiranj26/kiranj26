@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiranj26
-- 👀 I’m interested in computer engineering, parallel prpgramming, embeded systems.
-- 🌱 I’m currently learning electrical and computer engineering at universoty of colorado boulder
+- 👀 I’m interested in computer engineering, parallel programming,high performance computing and embeded systems.
+- 🌱 I’m currently learning electrical and computer engineering at universoty of colorado boulder with specialisation in computer engineering.
 - 📫 You can reach e on my linkedin https://www.linkedin.com/in/kiran-jojare-cdac/
 
 <!---
