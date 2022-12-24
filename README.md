@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kiran Jojare
+# Hi there,
+- 👋 I’m Kiran Jojare
 - 👀 I'm interested in computer engineering, parallel programming,high performance computing and embeded systems.
 - 🌱 I'm currently concentrating in computer engineering while studying electrical engineering at the University of Colorado Boulder.
 - 📫 You can reach me on my linkedin https://www.linkedin.com/in/kiran-jojare-cdac/
