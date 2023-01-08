@@ -1,11 +1,9 @@
 <h1 align="center">Hi there👋, Kiran Jojare</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/Amit-Choudhary-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiran-jojare-embedded/)
+[![Linkedin Badge](https://img.shields.io/badge/Kiran-Jojare-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiran-jojare-embedded/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranj26&label=Profile%20views&color=0e75b6&style=flat" alt="kiranj26" /> </p>
 
-
-# Hi there,
 - 👋 I’m Kiran Jojare
 - 👀 I'm interested in computer engineering, parallel programming,high performance computing and embeded systems.
 - 🌱 I'm currently concentrating in computer engineering while studying electrical engineering at the University of Colorado Boulder.
