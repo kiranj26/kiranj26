@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, Kiran Jojare</h1>
+<h1 align="center">Hi there👋, Kiran Jojare</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/Amit-Choudhary-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kiran-jojare-embedded/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranj26&label=Profile%20views&color=0e75b6&style=flat" alt="amit-c-ai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranj26&label=Profile%20views&color=0e75b6&style=flat" alt="kiranj26" /> </p>
 
 
 # Hi there,
