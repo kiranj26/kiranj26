@@ -12,6 +12,17 @@
 
 - 📫 You can reach me on my linkedin https://www.linkedin.com/in/kiran-jojare-cdac/
 
+<h3 align="center"> Tech Stack </h3>
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/kiranj26/github-readme-stats" />
+  <br><br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kiranj26&&hide_border=false&&theme=dark&&show_icons=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiranj26" />
+</p>
+
+
 <!---
 kiranj26/kiranj26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
