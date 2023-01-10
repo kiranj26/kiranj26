@@ -12,7 +12,10 @@
 
 - 📫 You can reach me on my linkedin https://www.linkedin.com/in/kiran-jojare-cdac/
 
-<h3 align="center"> Tech Stack </h3>
+<h2 align="center"> 😄 Fun Fact </h2>
+In his now famous post on news:comp.os.minix, Linux creator Linus Torvalds explicitly stated, “I’m doing a (free) operating system. . . . It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks . . ..”
+
+<h2 align="center"> Tech Stack </h2>
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/kiranj26/github-readme-stats" />
@@ -21,7 +24,6 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiranj26" />
 </p>
-
 
 
 <!---
