@@ -13,7 +13,11 @@
 - 📫 You can reach me on my linkedin https://www.linkedin.com/in/kiran-jojare-cdac/
 
 <h2 align="center"> 😄 Fun Fact </h2>
-In his now famous post on news:comp.os.minix, Linux creator Linus Torvalds explicitly stated, “I’m doing a (free) operating system. . . . It is NOT portable (uses 386 task switching etc), and it probably never will support anything other than AT-harddisks . . ..”
+In 1993, when Linus Torvalds (Creater of Linux OS)  was teaching at the University of Helsinki, he gave the task of composing email as homework to the students. Yeah, composing emails were a big deal back then.
+
+A female student named Tove Monni completed the task by sending him an email asking him out on a date. He accepted and three years later the first of their three daughters was born.
+
+Shall I say he started the internet dating trend? Hmm … nah! Let’s leave it there 😉
 
 <h2 align="center"> Tech Stack </h2>
 
