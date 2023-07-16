@@ -23,8 +23,26 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Concurrent Containers Using Open MP C++ Programming Model
 - Smart Distributed Control System for Excavators via FreeRTOS
 - Broadcasting Protocol for Vehicle-to-Vehicle (V2V) Communication
-
+  
 ## 📫 Contact
 - LinkedIn: [kiranjojare](https://www.linkedin.com/in/kiran-jojare-embedded-system/)
 - Email: kijo7257@colorado.edu
 - GitHub: [kiranjojare](https://github.com/kiranj26)
+
+## Starred Repositories
+
+<div>
+  <a href="https://github.com/kiranj26/Embedded-System-Design-S22/tree/main/Final_Project/Data-Transfer-Between-STM32F4-and-AT89C51-Using-USB-Communication">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark" alt="Embedded System Design S22">
+  </a>
+  <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark" alt="Concurrent Programming Fall 2022">
+  </a>
+  <a href="https://github.com/kiranj26/Network-System-Fall-2022/tree/main/Final%20Project%20V2V/V2V_Broadcasting_Protocol">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Network-System-Fall-2022&theme=dark" alt="Network System Fall 2022">
+  </a>
+  <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Principles of Embedded Software S22">
+  </a>
+  <div style="clear:both;"></div> <!-- Clearing element -->
+</div>
