@@ -8,19 +8,21 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ## 💻 Skills
 - Programming: Embedded C/C++, Assembly, Python, MATLAB
-- Communication Protocols: SPI, I2C, UART, CAN, TCP/IP, MQTT
-- Tools & Platforms: STM32, NVIDIA Xavier, Beagle Bone Black
+- Communication Protocols: SPI, I2C, UART, CAN, TCP/IP, MQTT, BLE, LIN, UDS
+- Tools & Platforms: STM32, NVIDIA Xavier, Beagle Bone Black, STM Discovery, Arduino
 - Development Environments: STM32Cube, Simplicity Studio, Keil
 
 ## 💼 Experience
+- Intern-Hybrid Embedded PLatform, Danfoss
 - Intern-Embedded Software, Canoo
 - Intern-Firmware Engineer, MAXWELL CubeSat by CU Boulder
 - Senior Engineer, ZF Friedrichshafen AG
 - Embedded Engineer, KPIT Technologies
 
 ## 🚀 Projects
-- USB-Based Communication between STM32F4 and AT89C51 Microcontrollers
-- Concurrent Containers Using Open MP C++ Programming Model
+- BLE Based Smart Classroom System Using APDS 9960 Gesture sensor on two EFR 32 SiLabs Boards
+- USB-Based Communication between STM32F4 and AT89C51 Microcontrollers using Virtual USB 2.0
+- Concurrent Containers Using Open MP C++ Programming Model for Concurrancy of Data Structures
 - Smart Distributed Control System for Excavators via FreeRTOS
 - Broadcasting Protocol for Vehicle-to-Vehicle (V2V) Communication
   
