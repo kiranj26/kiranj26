@@ -13,11 +13,13 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Development Environments: STM32Cube, Simplicity Studio, Keil
 
 ## 💼 Experience
-- Intern-Hybrid Embedded PLatform, Danfoss
-- Intern-Embedded Software, Canoo
-- Intern-Firmware Engineer, MAXWELL CubeSat by CU Boulder
-- Senior Engineer, ZF Friedrichshafen AG
-- Embedded Engineer, KPIT Technologies
+## 💼 Experience
+- Intern - Motor Control Framework, [Danfoss]([https://www.danfoss.com](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/))
+- Intern - Embedded Software, [Canoo]([https://www.canoo.com](https://www.canoo.com/pickup/))
+- Intern - Firmware Engineer, [SWARM_EX CubeSat by CU Boulder]([https://www.colorado.edu/](https://www.colorado.edu/aerospace/academics/graduates/graduate-projects/2022-2023-projects/space-weather-atmospheric-reconfigurable))
+- Senior Engineer, [ZF Friedrichshafen AG]([https://www.zf.com](https://www.zf.com/mobile/en/technologies/vehicle_motion_control/vehicle_motion_control.html))
+- Embedded Engineer, [KPIT Technologies]([https://www.kpit.com](https://www.cummins.com/components/aftertreatment/emission-solutions))
+
 
 ## 🚀 Projects
 - BLE Based Smart Classroom System Using APDS 9960 Gesture sensor on two EFR 32 SiLabs Boards
