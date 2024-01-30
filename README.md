@@ -7,10 +7,11 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - B. Tech. in Electronics Engineering, Government College of Engineering
 
 ## 💻 Skills
-- Programming: Embedded C/C++, Assembly, Python, MATLAB
-- Communication Protocols: SPI, I2C, UART, CAN, TCP/IP, MQTT, BLE, LIN, UDS
-- Tools & Platforms: STM32, NVIDIA Xavier, Beagle Bone Black, STM Discovery, Arduino
-- Development Environments: STM32Cube, Simplicity Studio, Keil
+- **Programming** : C, C++, Assembly, Python, M-Script(MATLAB Scripting), Bash Scripting
+- **Hardware** : STMSPCx, STM34F4x, NVIDIA Xavier, Jetson Nano, EFR32 Blue Gecko, FRDM KL25Z, EFM8BB1, Beagle-Bone Black, Raspberry PI.
+- **Tools and Technologies** : SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB
+  Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
+- **Protocols & Peripherals** : SPI, I2C, UART, CAN , LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
 
 ## 💼 Experience
 - Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
