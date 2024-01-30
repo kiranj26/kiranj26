@@ -13,7 +13,7 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Development Environments: STM32Cube, Simplicity Studio, Keil
 
 ## 💼 Experience
-- Intern - Motor Control Framework, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
+- Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
 - Intern - Embedded Software, [Canoo](https://www.canoo.com/pickup/)
 - Intern - Firmware Engineer, [SWARM_EX CubeSat by CU Boulder](https://www.colorado.edu/aerospace/academics/graduates/graduate-projects/2022-2023-projects/space-weather-atmospheric-reconfigurable)
 - Senior Engineer, [ZF Friedrichshafen AG](https://www.zf.com/mobile/en/technologies/vehicle_motion_control/vehicle_motion_control.html)
