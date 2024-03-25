@@ -9,9 +9,8 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 ## 💻 Skills
 - **Programming** : C, C++, Assembly, Python, M-Script(MATLAB Scripting), Bash Scripting
 - **Hardware** : STMSPCx, STM34F4x, NVIDIA Xavier, Jetson Nano, EFR32 Blue Gecko, FRDM KL25Z, EFM8BB1, Beagle-Bone Black, Raspberry PI.
-- **Tools and Technologies** : SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB
-  Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
-- **Protocols & Peripherals** : SPI, I2C, UART, CAN , LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
+- **Tools and Technologies** : SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
+- **Protocols & Peripherals** : SPI, I2C, UART, CAN, LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
 
 ## 💼 Experience
 - Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
@@ -20,12 +19,10 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Senior Engineer, [ZF Friedrichshafen AG](https://www.zf.com/mobile/en/technologies/vehicle_motion_control/vehicle_motion_control.html)
 - Embedded Engineer, [KPIT Technologies](https://www.cummins.com/components/aftertreatment/emission-solutions)
 
-
-
 ## 🚀 Projects
 - BLE Based Smart Classroom System Using APDS 9960 Gesture sensor on two EFR 32 SiLabs Boards
 - USB-Based Communication between STM32F4 and AT89C51 Microcontrollers using Virtual USB 2.0
-- Concurrent Containers Using Open MP C++ Programming Model for Concurrancy of Data Structures
+- Concurrent Containers Using Open MP C++ Programming Model for Concurrency of Data Structures
 - Smart Distributed Control System for Excavators via FreeRTOS
 - Broadcasting Protocol for Vehicle-to-Vehicle (V2V) Communication
   
@@ -34,10 +31,14 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Email: kijo7257@colorado.edu
 - GitHub: [kiranjojare](https://github.com/kiranj26)
 
-## 📊  Languages and Tools
+## 📊 Languages and Tools
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=kiranj26)
+![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
+
+<p align="center">
+  <img src="https://github.com/kiranj26/kiranj26/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Light"/>
+</p>
 
 ## ✅ Coursework (Project Link)
 
@@ -57,7 +58,5 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
   <div style="clear:both;"></div> <!-- Clearing element -->
 </div>
 
-## Github Heatmap
-![GitHub Snake Light](https://github.com/kiranj26/kiranj26/blob/output/github-contribution-grid-snake.svg)
 
 
