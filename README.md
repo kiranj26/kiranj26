@@ -57,5 +57,7 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
   <div style="clear:both;"></div> <!-- Clearing element -->
 </div>
 
+## Github Heatmap
+![GitHub Snake Light](https://github.com/kiranj26/kiranj26/blob/output/github-contribution-grid-snake.svg)
 
 
