@@ -36,9 +36,8 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
 
-<p align="center">
-  <img src="https://github.com/kiranj26/kiranj26/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Light"/>
-</p>
+![Snake animation](https://github.com/kiranj26/kiranj26/blob/output/dist/snake.svg)
+
 
 ## ✅ Coursework (Project Link)
 
