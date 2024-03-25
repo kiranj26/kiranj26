@@ -36,11 +36,18 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
 
+## 🚀 My Coding Journey
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kiranj2605?theme=light&font=Duru%20Sans&ext=heatmap)
+
+Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
-<div align="left">
-  <img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" />
-</div>
+<img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
+
 
 ## ✅ Coursework (Project Link)
 
