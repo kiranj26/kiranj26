@@ -36,10 +36,11 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
 
-## Contribution Snake Game
+## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/kiranj26/kiranj26/blob/output/snake.svg)
-
+<div align="left">
+  <img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" />
+</div>
 
 ## ✅ Coursework (Project Link)
 
@@ -56,8 +57,7 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
   <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Principles of Embedded Software S22">
   </a>
-  <div style="clear:both;"></div> <!-- Clearing element -->
 </div>
-
+<div style="clear:both;"></div> <!-- Clearing element -->
 
 
