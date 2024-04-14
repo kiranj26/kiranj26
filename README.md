@@ -58,13 +58,17 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
   <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark" alt="Concurrent Programming Fall 2022">
   </a>
-  <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architecture">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Mastering-Embedded-System-Architecture S22">
+  <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architecture/tree/main/Final_Project">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architecture&theme=dark" alt="Mastering Embedded System Architecture">
   </a>
   <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Principles of Embedded Software S22">
   </a>
+  <a href="https://github.com/kiranj26/ECEN-5823-IOT-Embedded-Firmware/tree/main/Final%20Project%20Gesture%20Controlled%20Classroom">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark" alt="IOT Embedded Firmware S22">
+  </a>
 </div>
 <div style="clear:both;"></div> <!-- Clearing element -->
+
 
 
