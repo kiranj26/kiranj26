@@ -50,38 +50,37 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 
 ## 🌟 Hands-on on Different Microcontrollers
 
+### C2000 Piccolo LaunchPad Evaluation Kit (LAUNCHXL-F28027F)
 <div>
   <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark" alt="C2000 Piccolo F28027F Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="C2000 Piccolo F28027F Projects">
   </a>
-  <br>
 </div>
 
+---
 
-## ✅ Coursework (Project Link)
+## ✅ Coursework Projects
 
 <div>
   <a href="https://github.com/kiranj26/Embedded-System-Design-S22/tree/main/Final_Project/Data-Transfer-Between-STM32F4-and-AT89C51-Using-USB-Communication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark" alt="Embedded System Design S22">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Embedded System Design S22">
   </a>
   <br>
   <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark" alt="Concurrent Programming Fall 2022">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Concurrent Programming Fall 2022">
   </a>
   <br>
   <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architechture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architechture&theme=dark" alt="Mastering Embedded System Architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architechture&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Mastering Embedded System Architecture">
   </a>
   <br>
   <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark" alt="Principles of Embedded Software S22">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Principles of Embedded Software S22">
   </a>
   <br>
   <a href="https://github.com/kiranj26/ECEN-5823-IOT-Embedded-Firmware/tree/main/Final%20Project%20Gesture%20Controlled%20Classroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark" alt="IOT Embedded Firmware S22">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="IOT Embedded Firmware S22">
   </a>
   <br>
 </div>
-
-
 
