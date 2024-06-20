@@ -48,6 +48,15 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 
 <img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
 
+## 🌟 Hands-on on Different Microcontrollers
+
+<div>
+  <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark" alt="C2000 Piccolo F28027F Projects">
+  </a>
+  <br>
+</div>
+
 
 ## ✅ Coursework (Project Link)
 
