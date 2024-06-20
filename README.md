@@ -55,6 +55,63 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
 
+---
+
+## 🌟 Hands-on on Different Microcontrollers
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="C2000 Piccolo F28027F Projects">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiranj26/Raspberry-Pi-Pico-RP2040-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Raspberry-Pi-Pico-RP2040-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Raspberry Pi Pico RP2040 Projects">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✅ Coursework Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kiranj26/Embedded-System-Design-S22/tree/main/Final_Project/Data-Transfer-Between-STM32F4-and-AT89C51-Using-USB-Communication">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Embedded System Design S22">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Concurrent Programming Fall 2022">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architechture">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architechture&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Mastering Embedded System Architecture">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Principles of Embedded Software S22">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kiranj26/ECEN-5823-IOT-Embedded-Firmware/tree/main/Final%20Project%20Gesture%20Controlled%20Classroom">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="IOT Embedded Firmware S22">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🚀 My Coding Journey
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kiranj2605?theme=light&font=Duru%20Sans&ext=heatmap)
@@ -66,46 +123,3 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 ## 🐍 GitHub Contribution Snake
 
 <img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
-
-## 🌟 Hands-on on Different Microcontrollers
-
-### C2000 Piccolo LaunchPad Evaluation Kit (LAUNCHXL-F28027F)
-<div>
-  <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="C2000 Piccolo F28027F Projects">
-  </a>
-</div>
-
-### Raspberry Pi Pico RP2040
-<div>
-  <a href="https://github.com/kiranj26/Raspberry-Pi-Pico-RP2040-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Raspberry-Pi-Pico-RP2040-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Raspberry Pi Pico RP2040 Projects">
-  </a>
-</div>
-
----
-
-## ✅ Coursework Projects
-
-<div>
-  <a href="https://github.com/kiranj26/Embedded-System-Design-S22/tree/main/Final_Project/Data-Transfer-Between-STM32F4-and-AT89C51-Using-USB-Communication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Embedded System Design S22">
-  </a>
-  <br>
-  <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Concurrent Programming Fall 2022">
-  </a>
-  <br>
-  <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architechture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architechture&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Mastering Embedded System Architecture">
-  </a>
-  <br>
-  <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Principles of Embedded Software S22">
-  </a>
-  <br>
-  <a href="https://github.com/kiranj26/ECEN-5823-IOT-Embedded-Firmware/tree/main/Final%20Project%20Gesture%20Controlled%20Classroom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="IOT Embedded Firmware S22">
-  </a>
-  <br>
-</div>
