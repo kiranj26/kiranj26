@@ -7,10 +7,10 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - B. Tech. in Electronics Engineering, Government College of Engineering
 
 ## 💻 Skills
-- **Programming** : C, C++, Assembly, Python, M-Script(MATLAB Scripting), Bash Scripting
-- **Hardware** : STMSPCx, STM34F4x, NVIDIA Xavier, Jetson Nano, EFR32 Blue Gecko, FRDM KL25Z, EFM8BB1, Beagle-Bone Black, Raspberry PI.
-- **Tools and Technologies** : SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
-- **Protocols & Peripherals** : SPI, I2C, UART, CAN, LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
+- **Programming**: C, C++, Assembly, Python, M-Script(MATLAB Scripting), Bash Scripting
+- **Hardware**: STMSPCx, STM34F4x, NVIDIA Xavier, Jetson Nano, EFR32 Blue Gecko, FRDM KL25Z, EFM8BB1, Beagle-Bone Black, Raspberry PI.
+- **Tools and Technologies**: SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
+- **Protocols & Peripherals**: SPI, I2C, UART, CAN, LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
 
 ## 💼 Experience
 - Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
@@ -25,14 +25,33 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 - Concurrent Containers Using Open MP C++ Programming Model for Concurrency of Data Structures
 - Smart Distributed Control System for Excavators via FreeRTOS
 - Broadcasting Protocol for Vehicle-to-Vehicle (V2V) Communication
-  
+
 ## 📫 Contact
 - LinkedIn: [kiranjojare](https://www.linkedin.com/in/kiran-jojare-embedded-system/)
 - Email: kijo7257@colorado.edu
 - GitHub: [kiranjojare](https://github.com/kiranj26)
 
 ## 📊 Languages and Tools
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+</p>
 
 ![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
 
@@ -54,6 +73,13 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 <div>
   <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="C2000 Piccolo F28027F Projects">
+  </a>
+</div>
+
+### Raspberry Pi Pico RP2040
+<div>
+  <a href="https://github.com/kiranj26/Raspberry-Pi-Pico-RP2040-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Raspberry-Pi-Pico-RP2040-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Raspberry Pi Pico RP2040 Projects">
   </a>
 </div>
 
@@ -83,4 +109,3 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
   </a>
   <br>
 </div>
-
