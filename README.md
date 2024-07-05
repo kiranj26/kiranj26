@@ -119,7 +119,3 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<img src="https://github.com/kiranj26/kiranj26/blob/output/snake.svg" alt="GitHub contribution snake" style="max-width: 100%;">
