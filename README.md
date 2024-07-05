@@ -1,16 +1,23 @@
 # Kiran Jojare
 Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
+![Profile Views](https://komarev.com/ghpvc/?username=kiranj26&color=blue&style=flat)    
+
 ## 👨‍🎓 Education
 - M.S in Electrical Engineering, University of Colorado Boulder
 - PG Diploma in Embedded System Design, Centre For Development of Advanced Computing
 - B. Tech. in Electronics Engineering, Government College of Engineering
 
 ## 💻 Skills
-- **Programming**: C, C++, Assembly, Python, M-Script(MATLAB Scripting), Bash Scripting
-- **Hardware**: STMSPCx, STM34F4x, NVIDIA Xavier, Jetson Nano, EFR32 Blue Gecko, FRDM KL25Z, EFM8BB1, Beagle-Bone Black, Raspberry PI.
-- **Tools and Technologies**: SPC5-Studio, MCU-Express, STMCube, Simplicity Studio, Simulink, MATLAB, Simulink, Polyspace, System Desk, EB Tresos, CANdb++, CANalyzer, CANoe, PEAK CAN Explorer, Target-Link, Doxygen, Dhrystone, GDB, GCC, Valgrind, Objdump.
-- **Protocols & Peripherals**: SPI, I2C, UART, CAN, LIN, Bluetooth Low Energy (BLE), Bluetooth Mesh, TCP/IP, UDP, USB, DoIP, MQTT, RS232, DMA.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Assembly-007396?style=flat-square&logo=assembly&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
 
 ## 💼 Experience
 - Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
@@ -52,10 +59,6 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
 </p>
-
-![Profile View Counter](https://komplete.com/ghpvc/?username=kiranj26)
-
----
 
 ## 🌟 Hands-on on Different Microcontrollers
 
@@ -116,6 +119,12 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kiranj2605?theme=light&font=Duru%20Sans&ext=heatmap)
 
-Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
+Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).  
+
+## 🚀 My Github Journey
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiranj26&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)    
+![Kiran's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=kiranj26&theme=github)    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranj26&layout=compact&theme=dark&hide_border=true)    
 
 ---
