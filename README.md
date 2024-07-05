@@ -123,10 +123,12 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 
 ## 🚀 My Github Journey
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact" alt="kiranj26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiranj26" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&locale=en" alt="kiranj26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&locale=en&theme=dark" alt="kiranj26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranj26&" alt="kiranj26" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranj26&&theme=dark" alt="kiranj26" /></p>
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kiranj26&theme=onedark&row=2&column=4" alt="kiranj26" /></p>
 
 ---
