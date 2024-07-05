@@ -122,18 +122,11 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).  
 
 ## 🚀 My Github Journey
-   
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiranj26&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 GitHub Contribution Graph
-![GitHub Contribution Graph](https://github.com/kiranj26/kiranj26/assets/111842372/98e3904c-2763-4034-a79f-45d13e269478)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact" alt="kiranj26" /></p>
 
-### 🚀 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranj26&layout=compact&theme=dark&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&locale=en" alt="kiranj26" /></p>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kiranj26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranj26&" alt="kiranj26" /></p>
 
 ---
