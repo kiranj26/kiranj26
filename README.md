@@ -131,5 +131,4 @@ Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kiranj26&theme=onedark&row=2&column=4" alt="kiranj26" /></p>
 
-
 ---
