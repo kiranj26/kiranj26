@@ -9,6 +9,9 @@ Let's connect, learn, and grow together! 💡
 Can't wait to see you all there! 🙌    
 
 [Link to Topmate page](https://topmate.io/kiran_jojare)    
+![image](https://github.com/user-attachments/assets/fed30552-66a3-4465-baab-47f67dd1119c)
+
+
 
 ## 👨‍🎓 Education
 - M.S in Electrical Engineering, University of Colorado Boulder
