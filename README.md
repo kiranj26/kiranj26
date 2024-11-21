@@ -3,6 +3,13 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranj26&color=blue&style=flat)    
 
+## Schedule 1-on-1 With Me    
+Join me on my Topmate page where I'll be offering one-on-one sessions, personalized advice, and much more.    
+Let's connect, learn, and grow together! 💡       
+Can't wait to see you all there! 🙌    
+
+[Link to Topmate page](https://topmate.io/kiran_jojare)    
+
 ## 👨‍🎓 Education
 - M.S in Electrical Engineering, University of Colorado Boulder
 - PG Diploma in Embedded System Design, Centre For Development of Advanced Computing
