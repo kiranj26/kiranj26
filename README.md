@@ -6,10 +6,15 @@ Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
 ## Schedule 1-on-1 With Me    
 Join me on my Topmate page where I'll be offering one-on-one sessions, personalized advice, and much more.    
 Let's connect, learn, and grow together! 💡       
-Can't wait to see you all there! 🙌    
+Can't wait to see you all there! 🙌        
+[Link to Topmate page](https://topmate.io/kiran_jojare)
 
-[Link to Topmate page](https://topmate.io/kiran_jojare)    
-![image](https://github.com/user-attachments/assets/c0afbd48-eb8f-4acf-85d3-1518e0447358)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0afbd48-eb8f-4acf-85d3-1518e0447358" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4ffc6646-a17f-42ea-a4dd-77a31acf30a4" width="400"/>
+</p>
+
+
 
 ## 👨‍🎓 Education
 - M.S in Electrical Engineering, University of Colorado Boulder
