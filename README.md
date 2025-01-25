@@ -88,6 +88,18 @@ Can't wait to see you all there! 🙌
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kiranj26/STM32-PlatformIO-Playground">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=STM32-PlatformIO-Playground&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="STM32 PlatformIO Playground">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiranj26/STM32-Nucleo-F401RE-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=STM32-Nucleo-F401RE-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="STM32 Nucleo F401RE Projects">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
