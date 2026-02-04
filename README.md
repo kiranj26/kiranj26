@@ -1,5 +1,5 @@
 # Kiran Jojare
-Embedded Systems Engineer | Tech Enthusiast | Open Source Contributor
+Embedded Systems Engineer | Tech Enthusiast | Trying Hands on Open Source
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiranj26&color=blue&style=flat)    
 
