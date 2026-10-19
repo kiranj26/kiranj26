@@ -1,160 +1,150 @@
-# Kiran Jojare
-Embedded Systems Engineer | Tech Enthusiast | Trying Hands on Open Source | [My Portfolio](https://kiranj26.github.io/)
+<!-- ✏️ Before publishing: replace every [BRACKETED] placeholder, then delete this comment. -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=kiranj26&color=blue&style=flat)    
+# Hi, I'm Kiran 👋
 
-## Schedule 1-on-1 With Me    
-Join me on my Topmate page where I'll be offering one-on-one sessions, personalized advice, and much more.    
-Let's connect, learn, and grow together! 💡       
-Can't wait to see you all there! 🙌        
-[Link to Topmate page](https://topmate.io/kiran_jojare)
+**Firmware Engineer @ Eaton** · Boulder, Colorado 🏔️
+
+I build and verify real-time control and communication firmware: from model, to emulator, to silicon.
+
+`while (1) { build(); verify(); ship(); }`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kiranj26.github.io-0d1117?style=flat-square&logo=githubpages&logoColor=white)](https://kiranj26.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran%20Jojare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-jojare-embedded-system/)
+[![Topmate](https://img.shields.io/badge/1--on--1-Topmate-E44332?style=flat-square)](https://topmate.io/kiran_jojare)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-3FB950?style=flat-square&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
+
+---
+
+## 🙋 About me
+
+By day I write firmware for Smart Circuit Breakers at Eaton. By night I'm usually at my bench, building things like a drum kit on an ESP32, or putting a blinky LED through four levels of verification, because *"it works on my board"* never felt like enough.
+
+My path so far: vehicle motion control at **ZF**, emissions control software at **KPIT**, an M.S. at **CU Boulder** (with firmware internships at Danfoss, Canoo, and the SWARM-EX CubeSat), and now **Eaton**.
+
+> If it isn't verified, it isn't done.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c0afbd48-eb8f-4acf-85d3-1518e0447358" width="400"/>
-  <img src="https://github.com/user-attachments/assets/4ffc6646-a17f-42ea-a4dd-77a31acf30a4" width="400"/>
+  <img src="./assets/lab-terminal.gif" alt="Terminal flashing firmware and passing requirement tests, next to a scope drawing a closed-loop step response" width="720">
 </p>
-
-
-
-## 👨‍🎓 Education
-- M.S in Electrical Engineering, University of Colorado Boulder
-- PG Diploma in Embedded System Design, Centre For Development of Advanced Computing
-- B. Tech. in Electronics Engineering, Government College of Engineering
-
-## 💻 Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Assembly-007396?style=flat-square&logo=assembly&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-</p>
-
-## 💼 Experience
-- Intern - Motor Control Firmware, [Danfoss](https://www.danfoss.com/en-us/about-danfoss/our-businesses/power-solutions/danfoss-editron/)
-- Intern - Embedded Software, [Canoo](https://www.canoo.com/pickup/)
-- Intern - Firmware Engineer, [SWARM_EX CubeSat by CU Boulder](https://www.colorado.edu/aerospace/academics/graduates/graduate-projects/2022-2023-projects/space-weather-atmospheric-reconfigurable)
-- Senior Engineer, [ZF Friedrichshafen AG](https://www.zf.com/mobile/en/technologies/vehicle_motion_control/vehicle_motion_control.html)
-- Embedded Engineer, [KPIT Technologies](https://www.cummins.com/components/aftertreatment/emission-solutions)
-
-## 🚀 Projects
-- BLE Based Smart Classroom System Using APDS 9960 Gesture sensor on two EFR 32 SiLabs Boards
-- USB-Based Communication between STM32F4 and AT89C51 Microcontrollers using Virtual USB 2.0
-- Concurrent Containers Using Open MP C++ Programming Model for Concurrency of Data Structures
-- Smart Distributed Control System for Excavators via FreeRTOS
-- Broadcasting Protocol for Vehicle-to-Vehicle (V2V) Communication
-
-## 📫 Contact
-- LinkedIn: [kiranjojare](https://www.linkedin.com/in/kiran-jojare-embedded-system/)
-- Email: kijo7257@colorado.edu
-- GitHub: [kiranjojare](https://github.com/kiranj26)
-
-## 📊 Languages and Tools
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-</p>
-
-## 🌟 Hands-on on Different Microcontrollers
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=C2000-Piccolo-F28027F-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="C2000 Piccolo F28027F Projects">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kiranj26/Raspberry-Pi-Pico-RP2040-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Raspberry-Pi-Pico-RP2040-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Raspberry Pi Pico RP2040 Projects">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kiranj26/STM32-PlatformIO-Playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=STM32-PlatformIO-Playground&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="STM32 PlatformIO Playground">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kiranj26/STM32-Nucleo-F401RE-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=STM32-Nucleo-F401RE-Projects&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="STM32 Nucleo F401RE Projects">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## ✅ Coursework Projects
+## 🧭 How I engineer
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kiranj26/Embedded-System-Design-S22/tree/main/Final_Project/Data-Transfer-Between-STM32F4-and-AT89C51-Using-USB-Communication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Embedded-System-Design-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Embedded System Design S22">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kiranj26/Concurrent-Programming-Fall-2022/tree/main/FinalProject-ConcurrentContainers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Concurrent-Programming-Fall-2022&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Concurrent Programming Fall 2022">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kiranj26/ECEN-5803-Mastering-Embedded-System-Architechture">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5803-Mastering-Embedded-System-Architechture&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Mastering Embedded System Architecture">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kiranj26/Principles-of-Embedded-Software-S22/tree/main/Final_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=Principles-of-Embedded-Software-S22&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="Principles of Embedded Software S22">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/kiranj26/ECEN-5823-IOT-Embedded-Firmware/tree/main/Final%20Project%20Gesture%20Controlled%20Classroom">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiranj26&repo=ECEN-5823-IOT-Embedded-Firmware&theme=dark&show_owner=true&hide_border=true&border_radius=10" alt="IOT Embedded Firmware S22">
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 🚀 My Coding Journey
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kiranj2605?theme=light&font=Duru%20Sans&ext=heatmap)
-
-Check out my LeetCode profile [here](https://leetcode.com/kiranj2605/).  
-
-## 🚀 My Github Journey
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiranj26&show_icons=true&locale=en&layout=compact&theme=dark" alt="kiranj26" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&locale=en&theme=dark" alt="kiranj26" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kiranj26&&theme=dark" alt="kiranj26" /></p>
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=kiranj26&theme=onedark&row=2&column=4" alt="kiranj26" /></p>
-
+- **Requirements first.** Tests are named after requirements and traced back to them. *(see [STM32H7 Control Lab](https://github.com/kiranj26/STM32H7-Nucleo-With-Renode-and-Openmodelica))*
+- **Verify at every level.** The same code runs in a model, in an emulator, and on real hardware: MIL → SIL → PIL → HW.
+- **Measure, don't guess.** Latency, timing, and sensor data are measured on the bench, not assumed. *(see [Drum Kit](https://github.com/kiranj26/Electronic_Drum_Using_ESP32) and [Posture Tracker](https://github.com/kiranj26/Posture-Tracker-Using-ESP32))*
 
 ---
+
+## 🔧 Featured work
+
+**[STM32H7 Control Lab](https://github.com/kiranj26/STM32H7-Nucleo-With-Renode-and-Openmodelica)**: *closed-loop control, verified from model to silicon*
+I was tired of tuning gains by trial and error. This is a 7-project curriculum where OpenModelica plant models drive firmware running unmodified in Renode and on a real Nucleo-H743ZI2, with Robot Framework checking every result against written requirements.
+**Proof:** a single firmware binary passes 5/5 Robot tests on both the board and the emulator in CI, and the plant model matches the exact solution within 3.8 µV.
+
+**[TI F280039C CAN Library](https://github.com/kiranj26/ti-f280039c-can-library)**: *a portable CAN driver, built like a product*
+CAN drivers tend to get rewritten for every project. This one has a handle-based API, a strict state machine (including ERROR_PASSIVE and BUS_OFF), hardware isolated behind a port layer, and a boundary ready for CAN FD.
+**Proof:** host-tested with GoogleTest and mocks, a GCC + Clang CI matrix, and automated releases.
+
+**[ESP32 Drum Kit](https://github.com/kiranj26/Electronic_Drum_Using_ESP32)**: *press a button, hear a drum. No phone, no laptop, no Wi-Fi.*
+I built it in six phases, each solving one constraint: interrupt-driven debounced input, a Wi-Fi AP with WebSockets, a FreeRTOS dual-core task split to remove jitter, WAV samples loaded from SD, and I2S DMA to a Class D amp.
+**Proof:** 4-voice polyphony with end-to-end latency under 10 ms.
+
+**[MicroOCPP on STM32F4](https://github.com/kiranj26/MicroOCPP-on-STM32F4)**: *the EV charger protocol on a microcontroller*
+OCPP for EV chargers on an STM32F4, using an ESP32-C3 as a Wi-Fi bridge, with UART communication, secure WebSockets, TLS, and FreeRTOS tasks.
+**Status:** [IN PROGRESS: UPDATE WITH CURRENT STATE].
+
+**[CAN Log Parser](https://github.com/kiranj26/CAN-Log-Parser)**: *turning raw CAN logs into answers*
+Decodes CAN logs against a DBC file and plots any signal over a chosen time window, so you get from "something's wrong on the bus" to "here's the signal" quickly.
+**Proof:** CI, Codacy code-quality checks, and flake8 linting.
+
+**[Posture Tracker](https://github.com/kiranj26/Posture-Tracker-Using-ESP32)**: *hardware that notices when you slouch*
+Long debug sessions are hard on your back. This uses an ESP32 with an MPU-6050 to track tilt, with filtered angle output.
+**Proof:** axis maps and angle ranges verified on real hardware with recorded data, plus endurance testing.
+
+---
+
+## 🧰 Tools & libraries
+
+- [Adafruit Fingerprint for STM32F4](https://github.com/kiranj26/Adafruit_Fingerprint_STM32F4): fingerprint sensor driver ported to STM32F4
+- [ESP32 ↔ STM32 AT Interface](https://github.com/kiranj26/ESP32-STM32-AT-Command-Interface): AT-command link over UART, with unit and integration tests
+- [CANalyzer Mimic Pro](https://github.com/kiranj26/CANalyzer-Mimic-Pro): GUI for filtering and plotting CAN logs by message ID
+
+---
+
+## 🛠 Engineering toolkit
+
+| Area | Tools |
+|---|---|
+| **Control & power** | Motor control · PID / LQR · TI C2000 |
+| **Networks** | CAN / CAN FD · UART · SPI · I²C · BLE · Wi-Fi · OCPP |
+| **RTOS & platforms** | FreeRTOS · Zephyr · STM32 · ESP32 · RP2040 · SiLabs EFR32 |
+| **Verification** | Renode · Robot Framework · GoogleTest · GitHub Actions |
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+
+---
+
+## 🔭 Currently
+
+- 🔭 Closing the first loop: the P1 thermal chamber on the STM32H7
+- 🥁 Drum kit phase 5: adding an OLED display
+- 🌱 Learning: Zephyr RTOS on the ESP32-S3
+- 🤝 Mentoring engineers 1-on-1 on [Topmate](https://topmate.io/kiran_jojare)
+
+---
+
+<details>
+<summary><b>💼 Experience</b></summary>
+<br>
+
+- **Lead Firmware Engineer**, Eaton: real time firmware control for smart circuit breakers
+- **Firmware Intern (Motor Control)**, Danfoss: motor control firmware for Editron electric drivetrains
+- **Embedded Software Intern**, Canoo: embedded software for EV platforms
+- **Firmware Engineer**, SWARM-EX CubeSat, CU Boulder: flight firmware for a CubeSat swarm mission
+- **Senior Engineer**, ZF Friedrichshafen AG: vehicle motion control software
+- **Embedded Engineer**, KPIT Technologies: emissions aftertreatment control software
+
+🎓 M.S. Electrical Engineering, CU Boulder · PG Diploma, Embedded System Design, CDAC · B.Tech Electronics Engineering, Government College of Engineering
+
+</details>
+
+<details>
+<summary><b>🧪 Lab notebooks</b>: every board I own gets one</summary>
+<br>
+
+> - [Raspberry Pi Pico RP2040](https://github.com/kiranj26/Raspberry-Pi-Pico-RP2040-Projects): peripheral-by-peripheral projects
+> - [TI C2000 Piccolo F28027F](https://github.com/kiranj26/C2000-Piccolo-F28027F-Projects): from GPIO up to control peripherals
+> - [STM32 Nucleo F401RE](https://github.com/kiranj26/STM32-Nucleo-F401RE-Projects) · [STM32 Nucleo H743ZI2](https://github.com/kiranj26/STM32-Nucleo-H743ZI2-Projects) · [STM32 PlatformIO Playground](https://github.com/kiranj26/STM32-PlatformIO-Playground)
+> - [Zephyr Embedded Lab](https://github.com/kiranj26/zephyr-embedded-lab): Zephyr RTOS on the ESP32-S3
+> - [Communication Protocols](https://github.com/kiranj26/Communication-Protocols): notes on UART, SPI, I²C, CAN, and LIN
+> - [C in Depth](https://github.com/kiranj26/C-in-Depth) · [C++ by Deitel & Deitel](https://github.com/kiranj26/Cpp-By-Deitel-Deitel): working through the classics
+
+</details>
+
+---
+
+## 🎒 Off the clock
+
+I don’t really have an “off” switch, just a low-power mode. On weekends you’ll find me hiking around Boulder, and somewhere around mile three I start thinking about my next build.
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kiranj26&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Kiran's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranj26&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages">
+</p>
+
+---
+
+If your CAN bus won't stop going bus-off, or you're just getting started in embedded, [let's talk](https://topmate.io/kiran_jojare). I'm always happy to talk firmware over coffee ☕
